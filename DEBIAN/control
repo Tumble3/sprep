@@ -1,0 +1,6 @@
+Package: sprep
+Version: 0.1
+Architecture: all
+Maintainer: Dominik Grosse
+Description: TODO
+Dependencies: reportlab
